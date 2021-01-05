@@ -8,7 +8,7 @@ To find relationship between realstae market price and initial sales price (Seou
 * Data Information: Initial Sales Pice (2019)
                     Initial Sales Price (2013 ~ 2018)
 
-## Technologies is use
+## Technologies in use
 * Python 
 * Anaconda 
 * Jupiter Notebook
